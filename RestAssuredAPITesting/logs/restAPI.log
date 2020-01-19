@@ -1,0 +1,345 @@
+2020-01-13 18:27:28 INFO  Employee Rest API:18 - **** Started TC001_GetAllEmployees ****
+2020-01-13 18:27:30 INFO  Employee Rest API:86 - **** Check Content Encoding ****
+2020-01-13 18:27:30 INFO  Employee Rest API:88 - Content Encoding==>  gzip
+2020-01-13 18:27:30 INFO  Employee Rest API:95 - **** Check Content Length ****
+2020-01-13 18:27:30 INFO  Employee Rest API:97 - Content Length==>  595
+2020-01-13 18:27:30 INFO  Employee Rest API:68 - **** Check Content Type ****
+2020-01-13 18:27:30 INFO  Employee Rest API:70 - Content Type==>  application/json;charset=utf-8
+2020-01-13 18:27:30 INFO  Employee Rest API:108 - **** Check Cookies ****
+2020-01-13 18:27:30 INFO  Employee Rest API:30 - **** Check Response Body ****
+2020-01-13 18:27:30 INFO  Employee Rest API:33 - Response Body ==>  {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-13 18:27:30 INFO  Employee Rest API:48 - **** Check Response Time ****
+2020-01-13 18:27:30 INFO  Employee Rest API:50 - Response Time ==>  1460
+2020-01-13 18:27:30 INFO  Employee Rest API:77 - **** Check Server Type ****
+2020-01-13 18:27:30 INFO  Employee Rest API:79 - Server Type==>  nginx/1.16.0
+2020-01-13 18:27:30 INFO  Employee Rest API:40 - **** Check Status Code ****
+2020-01-13 18:27:30 INFO  Employee Rest API:42 - Status Code ===>  200
+2020-01-13 18:27:30 INFO  Employee Rest API:60 - **** Check Status Line ****
+2020-01-13 18:27:30 INFO  Employee Rest API:62 - Status Line ==>  HTTP/1.1 200 OK
+2020-01-13 18:27:30 INFO  Employee Rest API:114 - **** Finished TC001_GetAllEmployees ****
+2020-01-13 18:32:12 INFO  Employee Rest API:18 - **** Started TC001_GetAllEmployees ****
+2020-01-13 18:32:14 INFO  Employee Rest API:86 - **** Check Content Encoding ****
+2020-01-13 18:32:14 INFO  Employee Rest API:88 - Content Encoding==>  gzip
+2020-01-13 18:32:14 INFO  Employee Rest API:95 - **** Check Content Length ****
+2020-01-13 18:32:14 INFO  Employee Rest API:97 - Content Length==>  595
+2020-01-13 18:32:14 INFO  Employee Rest API:68 - **** Check Content Type ****
+2020-01-13 18:32:14 INFO  Employee Rest API:70 - Content Type==>  application/json;charset=utf-8
+2020-01-13 18:32:14 INFO  Employee Rest API:108 - **** Check Cookies ****
+2020-01-13 18:32:14 INFO  Employee Rest API:30 - **** Check Response Body ****
+2020-01-13 18:32:14 INFO  Employee Rest API:33 - Response Body ==>  {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-13 18:32:14 INFO  Employee Rest API:48 - **** Check Response Time ****
+2020-01-13 18:32:14 INFO  Employee Rest API:50 - Response Time ==>  1628
+2020-01-13 18:32:14 INFO  Employee Rest API:77 - **** Check Server Type ****
+2020-01-13 18:32:14 INFO  Employee Rest API:79 - Server Type==>  nginx/1.16.0
+2020-01-13 18:32:14 INFO  Employee Rest API:40 - **** Check Status Code ****
+2020-01-13 18:32:14 INFO  Employee Rest API:42 - Status Code ===>  200
+2020-01-13 18:32:14 INFO  Employee Rest API:60 - **** Check Status Line ****
+2020-01-13 18:32:14 INFO  Employee Rest API:62 - Status Line ==>  HTTP/1.1 200 OK
+2020-01-13 18:32:14 INFO  Employee Rest API:114 - **** Finished TC001_GetAllEmployees ****
+2020-01-13 18:34:47 INFO  Employee Rest API:18 - **** Started TC001_GetAllEmployees ****
+2020-01-13 18:34:49 INFO  Employee Rest API:86 - **** Check Content Encoding ****
+2020-01-13 18:34:49 INFO  Employee Rest API:88 - Content Encoding==>  gzip
+2020-01-13 18:34:49 INFO  Employee Rest API:95 - **** Check Content Length ****
+2020-01-13 18:34:49 INFO  Employee Rest API:97 - Content Length==>  595
+2020-01-13 18:34:49 INFO  Employee Rest API:68 - **** Check Content Type ****
+2020-01-13 18:34:49 INFO  Employee Rest API:70 - Content Type==>  application/json;charset=utf-8
+2020-01-13 18:34:49 INFO  Employee Rest API:108 - **** Check Cookies ****
+2020-01-13 18:34:49 INFO  Employee Rest API:30 - **** Check Response Body ****
+2020-01-13 18:34:49 INFO  Employee Rest API:33 - Response Body ==>  {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-13 18:34:49 INFO  Employee Rest API:48 - **** Check Response Time ****
+2020-01-13 18:34:49 INFO  Employee Rest API:50 - Response Time ==>  1318
+2020-01-13 18:34:49 INFO  Employee Rest API:77 - **** Check Server Type ****
+2020-01-13 18:34:49 INFO  Employee Rest API:79 - Server Type==>  nginx/1.16.0
+2020-01-13 18:34:49 INFO  Employee Rest API:40 - **** Check Status Code ****
+2020-01-13 18:34:49 INFO  Employee Rest API:42 - Status Code ===>  200
+2020-01-13 18:34:49 INFO  Employee Rest API:60 - **** Check Status Line ****
+2020-01-13 18:34:49 INFO  Employee Rest API:62 - Status Line ==>  HTTP/1.1 200 OK
+2020-01-13 18:34:49 INFO  Employee Rest API:114 - **** Finished TC001_GetAllEmployees ****
+2020-01-13 18:37:11 DEBUG Employee Rest API:18 - **** Started TC001_GetAllEmployees ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:86 - **** Check Content Encoding ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:88 - Content Encoding==>  gzip
+2020-01-13 18:37:13 DEBUG Employee Rest API:95 - **** Check Content Length ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:97 - Content Length==>  595
+2020-01-13 18:37:13 DEBUG Employee Rest API:68 - **** Check Content Type ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:70 - Content Type==>  application/json;charset=utf-8
+2020-01-13 18:37:13 DEBUG Employee Rest API:108 - **** Check Cookies ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:30 - **** Check Response Body ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:33 - Response Body ==>  {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-13 18:37:13 DEBUG Employee Rest API:48 - **** Check Response Time ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:50 - Response Time ==>  1421
+2020-01-13 18:37:13 DEBUG Employee Rest API:77 - **** Check Server Type ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:79 - Server Type==>  nginx/1.16.0
+2020-01-13 18:37:13 DEBUG Employee Rest API:40 - **** Check Status Code ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:42 - Status Code ===>  200
+2020-01-13 18:37:13 DEBUG Employee Rest API:60 - **** Check Status Line ****
+2020-01-13 18:37:13 DEBUG Employee Rest API:62 - Status Line ==>  HTTP/1.1 200 OK
+2020-01-13 18:37:13 DEBUG Employee Rest API:114 - **** Finished TC001_GetAllEmployees ****
+2020-01-13 18:38:24 DEBUG Employee Rest API:18 - **** Started TC001_GetAllEmployees ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:23 - **** REsponse ****{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-13 18:38:27 DEBUG Employee Rest API:86 - **** Check Content Encoding ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:88 - Content Encoding==>  gzip
+2020-01-13 18:38:27 DEBUG Employee Rest API:95 - **** Check Content Length ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:97 - Content Length==>  595
+2020-01-13 18:38:27 DEBUG Employee Rest API:68 - **** Check Content Type ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:70 - Content Type==>  application/json;charset=utf-8
+2020-01-13 18:38:27 DEBUG Employee Rest API:108 - **** Check Cookies ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:30 - **** Check Response Body ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:33 - Response Body ==>  {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-13 18:38:27 DEBUG Employee Rest API:48 - **** Check Response Time ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:50 - Response Time ==>  1755
+2020-01-13 18:38:27 DEBUG Employee Rest API:77 - **** Check Server Type ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:79 - Server Type==>  nginx/1.16.0
+2020-01-13 18:38:27 DEBUG Employee Rest API:40 - **** Check Status Code ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:42 - Status Code ===>  200
+2020-01-13 18:38:27 DEBUG Employee Rest API:60 - **** Check Status Line ****
+2020-01-13 18:38:27 DEBUG Employee Rest API:62 - Status Line ==>  HTTP/1.1 200 OK
+2020-01-13 18:38:27 DEBUG Employee Rest API:114 - **** Finished TC001_GetAllEmployees ****
+2020-01-13 19:11:51 INFO  Employee Rest API:19 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 19:11:54 INFO  Employee Rest API:36 - **** check Response Time ****
+2020-01-13 19:11:54 INFO  Employee Rest API:29 - **** check Status Code ****
+2020-01-13 19:13:39 INFO  Employee Rest API:19 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 19:13:41 INFO  Employee Rest API:37 - **** check Response Time ****
+2020-01-13 19:13:41 INFO  Employee Rest API:30 - **** check Status Code ****
+2020-01-13 19:13:59 INFO  Employee Rest API:19 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 19:14:01 INFO  Employee Rest API:37 - **** check Response Time ****
+2020-01-13 19:14:01 INFO  Employee Rest API:30 - **** check Status Code ****
+2020-01-13 19:14:38 INFO  Employee Rest API:19 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 19:14:40 INFO  Employee Rest API:38 - **** check Response Time ****
+2020-01-13 19:14:40 INFO  Employee Rest API:30 - **** check Status Code ****
+2020-01-13 19:15:27 INFO  Employee Rest API:19 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 19:15:28 INFO  Employee Rest API:38 - **** check Response Time ****
+2020-01-13 19:15:28 INFO  Employee Rest API:30 - **** check Status Code ****
+2020-01-13 19:18:36 INFO  Employee Rest API:18 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 19:18:39 INFO  Employee Rest API:29 - **** check Status Code ****
+2020-01-13 19:18:39 INFO  Employee Rest API:41 - **** check Status Line ****
+2020-01-13 19:19:38 INFO  Employee Rest API:18 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 19:19:39 INFO  Employee Rest API:29 - **** check Status Code ****
+2020-01-13 19:19:39 INFO  Employee Rest API:41 - **** check Status Line ****
+2020-01-13 21:14:39 INFO  Employee Rest API:21 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 21:14:41 INFO  Employee Rest API:32 - **** check Status Code ****
+2020-01-13 21:14:41 INFO  Employee Rest API:44 - **** check Status Line ****
+2020-01-13 21:32:23 INFO  Employee Rest API:19 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 21:32:25 INFO  Employee Rest API:61 - **** Check Content Length ****
+2020-01-13 21:32:25 INFO  Employee Rest API:45 - **** check Content Type ****
+2020-01-13 21:32:25 INFO  Employee Rest API:37 - **** check Response Time ****
+2020-01-13 21:32:25 INFO  Employee Rest API:53 - **** Check Server Type ****
+2020-01-13 21:32:25 INFO  Employee Rest API:30 - **** check Status Code ****
+2020-01-13 21:32:25 INFO  Employee Rest API:69 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-13 21:52:38 INFO  Employee Rest API:19 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 21:52:40 INFO  Employee Rest API:61 - **** Check Content Length ****
+2020-01-13 21:52:41 INFO  Employee Rest API:45 - **** check Content Type ****
+2020-01-13 21:52:41 INFO  Employee Rest API:37 - **** check Response Time ****
+2020-01-13 21:52:41 INFO  Employee Rest API:53 - **** Check Server Type ****
+2020-01-13 21:52:41 INFO  Employee Rest API:30 - **** check Status Code ****
+2020-01-13 21:52:41 INFO  Employee Rest API:69 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-13 21:53:41 INFO  Employee Rest API:19 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 21:53:43 INFO  Employee Rest API:61 - **** Check Content Length ****
+2020-01-13 21:53:43 INFO  Employee Rest API:45 - **** check Content Type ****
+2020-01-13 21:53:43 INFO  Employee Rest API:37 - **** check Response Time ****
+2020-01-13 21:53:43 INFO  Employee Rest API:53 - **** Check Server Type ****
+2020-01-13 21:53:43 INFO  Employee Rest API:30 - **** check Status Code ****
+2020-01-13 21:53:43 INFO  Employee Rest API:69 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-13 21:54:15 INFO  Employee Rest API:19 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-13 21:54:17 INFO  Employee Rest API:61 - **** Check Content Length ****
+2020-01-13 21:54:17 INFO  Employee Rest API:45 - **** check Content Type ****
+2020-01-13 21:54:17 INFO  Employee Rest API:37 - **** check Response Time ****
+2020-01-13 21:54:17 INFO  Employee Rest API:53 - **** Check Server Type ****
+2020-01-13 21:54:17 INFO  Employee Rest API:30 - **** check Status Code ****
+2020-01-13 21:54:17 INFO  Employee Rest API:69 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-13 22:39:59 INFO  Employee Rest API:24 - **** Starting TC_003 ****
+2020-01-13 22:40:03 INFO  Employee Rest API:76 - **** Ending TC_003 ****
+2020-01-13 22:43:35 INFO  Employee Rest API:24 - **** Starting TC_003 ****
+2020-01-13 22:43:38 INFO  Employee Rest API:76 - **** Ending TC_003 ****
+2020-01-13 22:56:48 INFO  Employee Rest API:24 - **** Starting TC_004 ****
+2020-01-13 22:56:51 INFO  Employee Rest API:75 - **** Ending TC_003 ****
+2020-01-13 22:57:46 INFO  Employee Rest API:24 - **** Starting TC_004 ****
+2020-01-13 22:57:48 INFO  Employee Rest API:75 - **** Ending TC_003 ****
+2020-01-13 22:58:28 INFO  Employee Rest API:24 - **** Starting TC_004 ****
+2020-01-13 22:58:30 INFO  Employee Rest API:75 - **** Ending TC_003 ****
+2020-01-14 13:47:59 DEBUG Employee Rest API:31 - **** Check Response Body ****
+2020-01-14 13:47:59 DEBUG Employee Rest API:38 - **** Check Status Code ****
+2020-01-14 13:50:00 DEBUG Employee Rest API:32 - **** Check Response Body ****
+2020-01-14 13:50:00 DEBUG Employee Rest API:39 - **** Check Status Code ****
+2020-01-14 13:52:54 DEBUG Employee Rest API:34 - **** Check Response Body ****
+2020-01-14 13:52:54 DEBUG Employee Rest API:41 - **** Check Status Code ****
+2020-01-14 13:52:54 DEBUG Employee Rest API:48 - **** Finishing TC005_Delete Employee Record ****
+2020-01-14 13:55:15 INFO  Employee Rest API:28 - **** Starting TC_004 ****
+2020-01-14 13:55:19 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:19 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:19 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:19 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:19 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:19 INFO  Employee Rest API:21 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-14 13:55:19 INFO  Employee Rest API:63 - **** Check Content Length ****
+2020-01-14 13:55:19 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 13:55:19 INFO  Employee Rest API:47 - **** check Content Type ****
+2020-01-14 13:55:19 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 13:55:19 INFO  Employee Rest API:39 - **** check Response Time ****
+2020-01-14 13:55:19 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 13:55:19 INFO  Employee Rest API:55 - **** Check Server Type ****
+2020-01-14 13:55:19 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 13:55:19 INFO  Employee Rest API:32 - **** check Status Code ****
+2020-01-14 13:55:19 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 13:55:19 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 13:55:19 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 13:55:19 INFO  Employee Rest API:28 - **** Starting TC_003 ****
+2020-01-14 13:55:20 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:20 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:20 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:20 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:20 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 13:55:20 DEBUG Employee Rest API:21 - **** Started TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:26 - **** REsponse ****{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-14 13:55:21 DEBUG Employee Rest API:89 - **** Check Content Encoding ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:91 - Content Encoding==>  gzip
+2020-01-14 13:55:21 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:98 - **** Check Content Length ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:100 - Content Length==>  595
+2020-01-14 13:55:21 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:71 - **** Check Content Type ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:73 - Content Type==>  application/json;charset=utf-8
+2020-01-14 13:55:21 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:111 - **** Check Cookies ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:33 - **** Check Response Body ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:36 - Response Body ==>  {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-14 13:55:21 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:51 - **** Check Response Time ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:53 - Response Time ==>  841
+2020-01-14 13:55:21 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:80 - **** Check Server Type ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:82 - Server Type==>  nginx/1.16.0
+2020-01-14 13:55:21 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:43 - **** Check Status Code ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:45 - Status Code ===>  200
+2020-01-14 13:55:21 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:63 - **** Check Status Line ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:65 - Status Line ==>  HTTP/1.1 200 OK
+2020-01-14 13:55:21 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 13:55:21 DEBUG Employee Rest API:22 - **** Started TC005_Delete Employee Record ****
+2020-01-14 13:55:23 DEBUG Employee Rest API:37 - **** Check Response Body ****
+2020-01-14 13:55:23 DEBUG Employee Rest API:52 - **** Finishing TC005_Delete Employee Record ****
+2020-01-14 13:55:23 DEBUG Employee Rest API:44 - **** Check Status Code ****
+2020-01-14 13:55:23 DEBUG Employee Rest API:52 - **** Finishing TC005_Delete Employee Record ****
+2020-01-14 13:55:23 DEBUG Employee Rest API:52 - **** Finishing TC005_Delete Employee Record ****
+2020-01-14 13:55:23 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:54:59 INFO  Employee Rest API:28 - **** Starting TC_004 ****
+2020-01-14 14:55:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:05 INFO  Employee Rest API:21 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-14 14:55:06 INFO  Employee Rest API:63 - **** Check Content Length ****
+2020-01-14 14:55:06 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 14:55:06 INFO  Employee Rest API:47 - **** check Content Type ****
+2020-01-14 14:55:06 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 14:55:06 INFO  Employee Rest API:39 - **** check Response Time ****
+2020-01-14 14:55:06 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 14:55:06 INFO  Employee Rest API:55 - **** Check Server Type ****
+2020-01-14 14:55:06 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 14:55:06 INFO  Employee Rest API:32 - **** check Status Code ****
+2020-01-14 14:55:06 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 14:55:06 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 14:55:06 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-14 14:55:06 INFO  Employee Rest API:28 - **** Starting TC_003 ****
+2020-01-14 14:55:06 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:06 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:06 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:06 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:06 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-14 14:55:06 DEBUG Employee Rest API:21 - **** Started TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:26 - **** REsponse ****{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-14 14:55:07 DEBUG Employee Rest API:89 - **** Check Content Encoding ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:91 - Content Encoding==>  gzip
+2020-01-14 14:55:07 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:98 - **** Check Content Length ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:100 - Content Length==>  595
+2020-01-14 14:55:07 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:71 - **** Check Content Type ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:73 - Content Type==>  application/json;charset=utf-8
+2020-01-14 14:55:07 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:111 - **** Check Cookies ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:33 - **** Check Response Body ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:36 - Response Body ==>  {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-14 14:55:07 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:51 - **** Check Response Time ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:53 - Response Time ==>  797
+2020-01-14 14:55:07 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:80 - **** Check Server Type ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:82 - Server Type==>  nginx/1.16.0
+2020-01-14 14:55:07 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:43 - **** Check Status Code ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:45 - Status Code ===>  200
+2020-01-14 14:55:07 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:63 - **** Check Status Line ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:65 - Status Line ==>  HTTP/1.1 200 OK
+2020-01-14 14:55:07 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-14 14:55:07 DEBUG Employee Rest API:22 - **** Started TC005_Delete Employee Record ****
+2020-01-14 14:55:09 DEBUG Employee Rest API:37 - **** Check Response Body ****
+2020-01-14 14:55:09 DEBUG Employee Rest API:52 - **** Finishing TC005_Delete Employee Record ****
+2020-01-14 14:55:09 DEBUG Employee Rest API:44 - **** Check Status Code ****
+2020-01-14 14:55:09 DEBUG Employee Rest API:52 - **** Finishing TC005_Delete Employee Record ****
+2020-01-14 14:55:09 DEBUG Employee Rest API:52 - **** Finishing TC005_Delete Employee Record ****
+2020-01-14 14:55:09 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:01 INFO  Employee Rest API:28 - **** Starting TC_004 ****
+2020-01-18 15:13:03 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:03 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:03 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:03 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:03 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:03 INFO  Employee Rest API:21 - **** Started TC002_GetSingleEmployeeData ****
+2020-01-18 15:13:04 INFO  Employee Rest API:63 - **** Check Content Length ****
+2020-01-18 15:13:04 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-18 15:13:04 INFO  Employee Rest API:47 - **** check Content Type ****
+2020-01-18 15:13:04 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-18 15:13:04 INFO  Employee Rest API:39 - **** check Response Time ****
+2020-01-18 15:13:04 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-18 15:13:04 INFO  Employee Rest API:55 - **** Check Server Type ****
+2020-01-18 15:13:04 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-18 15:13:04 INFO  Employee Rest API:32 - **** check Status Code ****
+2020-01-18 15:13:04 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-18 15:13:04 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-18 15:13:04 INFO  Employee Rest API:72 - **** Finished TC002_GetSingleEmployeeData ****
+2020-01-18 15:13:04 INFO  Employee Rest API:28 - **** Starting TC_003 ****
+2020-01-18 15:13:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:05 INFO  Employee Rest API:80 - **** Ending TC_003 ****
+2020-01-18 15:13:05 DEBUG Employee Rest API:21 - **** Started TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:26 - **** REsponse ****{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-18 15:13:06 DEBUG Employee Rest API:89 - **** Check Content Encoding ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:91 - Content Encoding==>  gzip
+2020-01-18 15:13:06 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:98 - **** Check Content Length ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:100 - Content Length==>  595
+2020-01-18 15:13:06 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:71 - **** Check Content Type ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:73 - Content Type==>  application/json;charset=utf-8
+2020-01-18 15:13:06 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:111 - **** Check Cookies ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:33 - **** Check Response Body ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:36 - Response Body ==>  {"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-01-18 15:13:06 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:51 - **** Check Response Time ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:53 - Response Time ==>  866
+2020-01-18 15:13:06 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:80 - **** Check Server Type ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:82 - Server Type==>  nginx/1.16.0
+2020-01-18 15:13:06 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:43 - **** Check Status Code ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:45 - Status Code ===>  200
+2020-01-18 15:13:06 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:63 - **** Check Status Line ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:65 - Status Line ==>  HTTP/1.1 200 OK
+2020-01-18 15:13:06 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
+2020-01-18 15:13:06 DEBUG Employee Rest API:22 - **** Started TC005_Delete Employee Record ****
+2020-01-18 15:13:08 DEBUG Employee Rest API:37 - **** Check Response Body ****
+2020-01-18 15:13:08 DEBUG Employee Rest API:52 - **** Finishing TC005_Delete Employee Record ****
+2020-01-18 15:13:08 DEBUG Employee Rest API:44 - **** Check Status Code ****
+2020-01-18 15:13:08 DEBUG Employee Rest API:52 - **** Finishing TC005_Delete Employee Record ****
+2020-01-18 15:13:08 DEBUG Employee Rest API:52 - **** Finishing TC005_Delete Employee Record ****
+2020-01-18 15:13:08 DEBUG Employee Rest API:118 - **** Finished TC001_GetAllEmployees ****
